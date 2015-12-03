@@ -1,0 +1,9 @@
+Package: com.joemerlino.videopanefix
+Name: VideoPaneFix
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fixes the VideoPane's floating window area.
+Maintainer: Joe Merlino <merlino.giuseppe1@gmail.com>
+Author: Joe Merlino <merlino.giuseppe1@gmail.com>
+Section: Tweaks
