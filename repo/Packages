@@ -4,6 +4,7 @@ Depends: mobilesubstrate
 Conflicts: gsc.ipad
 Version: 1.1-1
 Architecture: iphoneos-arm
+Filename: debs//ws.hbang.monobar_1.1-1_iphoneos-arm.deb
 Description: Disable double-height status bars.
 Maintainer: insanj <insanjmail@gmail.com>
 Author: thekirbylover
@@ -14,6 +15,7 @@ Name: VideoPaneFix
 Depends: mobilesubstrate
 Version: 0.0.1-1
 Architecture: iphoneos-arm
+Filename: debs//com.joemerlino.videopanefix_0.0.1-1_iphoneos-arm.deb
 Description: Fixes the VideoPane's floating window area.
 Maintainer: Joe Merlino <merlino.giuseppe1@gmail.com>
 Author: Joe Merlino <merlino.giuseppe1@gmail.com>
