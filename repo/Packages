@@ -1,22 +1,25 @@
-Package: ws.hbang.monobar
-Name: MonoBar
-Depends: mobilesubstrate
-Conflicts: gsc.ipad
-Version: 1.1-1
-Architecture: iphoneos-arm
-Filename: debs//ws.hbang.monobar_1.1-1_iphoneos-arm.deb
-Description: Disable double-height status bars.
-Maintainer: insanj <insanjmail@gmail.com>
-Author: thekirbylover
-Section: Tweaks
-
 Package: com.joemerlino.videopanefix
-Name: VideoPaneFix
-Depends: mobilesubstrate
 Version: 0.0.1-1
 Architecture: iphoneos-arm
-Filename: debs//com.joemerlino.videopanefix_0.0.1-1_iphoneos-arm.deb
-Description: Fixes the VideoPane's floating window area.
-Maintainer: Joe Merlino <merlino.giuseppe1@gmail.com>
-Author: Joe Merlino <merlino.giuseppe1@gmail.com>
+Maintainer: Joe Merlino
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: ./debs//com.joemerlino.videopanefix_0.0.1-1_iphoneos-arm.deb
+Size: 11630
+MD5sum: 8fdb3da1011156e3ac67948e32303ecf
 Section: Tweaks
+Description: Fixes the VideoPane's floating window area.
+
+Package: ws.hbang.monobar
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: insanj <insanjmail@gmail.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Conflicts: gsc.ipad
+Filename: ./debs//ws.hbang.monobar_1.1-1_iphoneos-arm.deb
+Size: 6948
+MD5sum: 9707602263d76f70c794831056402d87
+Section: Tweaks
+Description: Disable double-height status bars.
+

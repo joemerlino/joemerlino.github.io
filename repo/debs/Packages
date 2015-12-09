@@ -1,0 +1,9 @@
+Usage: dpkg-scanpackages [<option> ...] <binarypath> [<overridefile> [<pathprefix>]] > Packages
+
+Options:
+  -t, --type <type>        scan for <type> packages (default is 'deb').
+  -u, --udeb               scan for udebs (obsolete alias for -tudeb).
+  -a, --arch <arch>        architecture to scan for.
+  -m, --multiversion       allow multiple versions of a single package.
+  -h, --help               show this help message.
+      --version            show the version.

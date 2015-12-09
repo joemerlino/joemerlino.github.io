@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /Users/Joe/GitHub/joemerlino.github.io/repo/
+dpkg-scanpackages ./debs > Packages
 bzip2 -fks Packages
