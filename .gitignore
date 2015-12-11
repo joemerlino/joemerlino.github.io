@@ -1,2 +1,2 @@
-/repo/debs/*.deb
+/repo/debs/*
 .DS_Store
