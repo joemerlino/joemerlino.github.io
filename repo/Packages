@@ -1,14 +1,14 @@
 Package: com.joemerlino.infinityfucker
 Version: 0.0.1-1
 Architecture: iphoneos-arm
-Maintainer: Joe Merlino
+Maintainer: Joe Merlino <merlino.giuseppe1@gmail.com>
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs//com.joemerlino.infinityfucker_0.0.1-1_iphoneos-arm.deb
-Size: 3202
-MD5sum: c922b2e8580bd1a42723df0e617cc84f
+Size: 3236
+MD5sum: 04060b26b424a583c9379547f48f5bfb
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Defeats jailbreak detection of InfinityTV
 
 Package: com.joemerlino.videopanefix
 Version: 0.0.1-1
