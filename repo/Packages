@@ -47,15 +47,15 @@ Section: Tweaks
 Description: Fixes the VideoPane's floating window area.
 
 Package: ws.hbang.monobar
-Version: 1.1-1
+Version: 1.1-2
 Architecture: iphoneos-arm
 Maintainer: insanj <insanjmail@gmail.com>
 Installed-Size: 120
 Depends: mobilesubstrate
 Conflicts: gsc.ipad
-Filename: ./debs//ws.hbang.monobar_1.1-1_iphoneos-arm.deb
-Size: 6948
-MD5sum: 9707602263d76f70c794831056402d87
+Filename: ./debs//ws.hbang.monobar_1.1-2_iphoneos-arm.deb
+Size: 7918
+MD5sum: d834c6ba12898c12ee1acb9ca2147b10
 Section: Tweaks
 Description: Disable double-height status bars.
 
