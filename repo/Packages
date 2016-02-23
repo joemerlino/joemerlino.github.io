@@ -23,14 +23,14 @@ Section: Tweaks
 Description: Defeats jailbreak detection of InfinityTV
 
 Package: com.joemerlino.spotifyalarm
-Version: 0.0.1-1
+Version: 0.0.1-2
 Architecture: iphoneos-arm
 Maintainer: Joe Merlino
 Installed-Size: 264
-Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: ./debs//com.joemerlino.spotifyalarm_0.0.1-1_iphoneos-arm.deb
-Size: 18670
-MD5sum: 440a5582f5e60eaa4661befb7ff57e13
+Depends: mobilesubstrate, firmware (>= 8.0), com.bd452.libpass, libactivator
+Filename: ./debs//com.joemerlino.spotifyalarm_0.0.1-2_iphoneos-arm.deb
+Size: 20030
+MD5sum: d92c30b5b6df38903f0db4449fe6d721
 Section: Tweaks
 Description: Wakes you up with your favourite Spotify song.
 
