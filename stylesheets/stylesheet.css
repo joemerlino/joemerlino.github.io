@@ -48,7 +48,7 @@ table {
 
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 1em;
   line-height: 1.5;
   color: #6d6d6d;
@@ -64,12 +64,13 @@ a:hover {
 }
 
 header {
+  text-align: center;
   padding-top: 35px;
   padding-bottom: 25px;
 }
 
 header h1 {
-  font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 48px; font-weight: 900;
   line-height: 1.2;
   color: #303030;
@@ -95,10 +96,15 @@ header h2 {
 }
 
 #container .inner img {
-  max-width: 100%;
+  max-width: 44%;
+}
+
+#head{
+  text-align: center;
 }
 
 #downloads {
+  display: inline-block;
   margin-bottom: 40px;
 }
 
@@ -164,10 +170,15 @@ a.button span {
 #view-on-github {
   margin-right: 0;
 }
-
+#view-on-linkedin span {
+  background: transparent url(../images/linkedin-button.png) 12px 50% no-repeat;
+}
+#view-on-linkedin {
+  margin-right: 0;
+}
 code, pre {
   margin-bottom: 30px;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
+  font-family: 'PT Sans', sans-serif;
   font-size: 14px;
   color: #222;
 }
@@ -241,6 +252,7 @@ form {
 /* GENERAL ELEMENT TYPE STYLES */
 
 h1 {
+  text-align: center;
   font-size: 32px;
 }
 
@@ -249,6 +261,10 @@ h2 {
   font-size: 22px;
   font-weight: bold;
   color: #303030;
+}
+
+.pic{
+  text-align: center;
 }
 
 h3 {
@@ -312,6 +328,7 @@ dl dt {
 
 footer {
   padding-top: 20px;
+  text-align: center;
   padding-bottom: 30px;
   margin-top: 40px;
   font-size: 13px;
@@ -355,6 +372,7 @@ footer a:hover {
     padding-bottom: 10px;
   }
   #downloads {
+    display: inline-block;
     margin-bottom: 25px;
   }
   #download-zip, #download-tar-gz {
