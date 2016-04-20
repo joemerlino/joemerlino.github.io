@@ -58,6 +58,20 @@ MD5sum: 8fdb3da1011156e3ac67948e32303ecf
 Section: Tweaks
 Description: Fixes the VideoPane's floating window area.
 
+Package: me.qusic.mailtoopener
+Version: 0.3-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 128
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Filename: ./debs//me.qusic.mailtoopener_0.3-3_iphoneos-arm.deb
+Size: 15196
+MD5sum: 70950192bc490244516fb72e1692c68b
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mailtoopenerDp
+Description: Open mailto URL in in-app composer
+Tag: purpose::extension
+
 Package: ws.hbang.monobar
 Version: 1.1-2
 Architecture: iphoneos-arm
