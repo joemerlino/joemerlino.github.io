@@ -78,6 +78,22 @@ Description: Wakes you up with your favourite Spotify song.
 Author: Joe Merlino
 Name: SpotAlarm
 
+Package: com.joemerlino.vftvfucker
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Joe Merlino
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.joemerlino.vftvfucker_0.0.1-1_iphoneos-arm.deb
+Size: 2550
+MD5sum: 6502d8d98772ce0720cea2729c60a77c
+SHA1: 25132df11405c4da34a74da45fc1cc58078a2202
+SHA256: 17c828b888674b60d080593f30f08d1aa7029368e044319c3767e00755730fdd
+Section: Tweaks
+Description: Defeats jailbreak detection of VodafoneTV
+Author: Joe Merlino
+Name: VFTVFucker
+
 Package: com.joemerlino.videopanefix
 Version: 0.0.1-1
 Architecture: iphoneos-arm
