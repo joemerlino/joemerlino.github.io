@@ -30,6 +30,22 @@ Description: Defeats jailbreak detection of InfinityTV
 Author: Joe Merlino <merlino.giuseppe1@gmail.com>
 Name: InfinityFucker
 
+Package: com.joemerlino.metrash2patch
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: Joe Merlino
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.joemerlino.metrash2patch_0.0.1-2_iphoneos-arm.deb
+Size: 2640
+MD5sum: a68dbaa4e94b0904dd6153fe1a211242
+SHA1: 061cd3d3b318e73af0367e452f27c2adb698b772
+SHA256: 369eaea6eeaa0b03b133f6cd85d969da10b0b22a33ee677d3e74a00bc00123a6
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Joe Merlino
+Name: Metrash2Patch
+
 Package: com.joemerlino.powercaller
 Version: 0.0.1-1
 Architecture: iphoneos-arm
