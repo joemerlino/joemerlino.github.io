@@ -94,6 +94,22 @@ Description: Wakes you up with your favourite Spotify song.
 Author: Joe Merlino
 Name: SpotAlarm
 
+Package: com.joemerlino.texttomail
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Joe Merlino
+Installed-Size: 260
+Depends: mobilesubstrate
+Filename: ./debs/com.joemerlino.texttomail_0.0.1-1_iphoneos-arm.deb
+Size: 14990
+MD5sum: db99387120c3e53dc3ea5dc9943f41ab
+SHA1: cd1003b9f979dd3eed75566b622770d0b2bf0558
+SHA256: dc83878c72b4768e02cbfa235302f32f9cef75f343cdba40062f4b63018a142b
+Section: Tweaks
+Description: Forward messages to email
+Author: Joe Merlino
+Name: TextToMail
+
 Package: com.joemerlino.vftvfucker
 Version: 0.0.1-1
 Architecture: iphoneos-arm
