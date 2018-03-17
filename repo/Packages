@@ -95,18 +95,18 @@ Author: Joe Merlino
 Name: SpotAlarm
 
 Package: com.joemerlino.texttomail
-Version: 0.0.1-1
+Version: 0.0.1-2
 Architecture: iphoneos-arm
 Maintainer: Joe Merlino
 Installed-Size: 260
 Depends: mobilesubstrate
-Filename: ./debs/com.joemerlino.texttomail_0.0.1-1_iphoneos-arm.deb
-Size: 14990
-MD5sum: db99387120c3e53dc3ea5dc9943f41ab
-SHA1: cd1003b9f979dd3eed75566b622770d0b2bf0558
-SHA256: dc83878c72b4768e02cbfa235302f32f9cef75f343cdba40062f4b63018a142b
+Filename: ./debs/com.joemerlino.texttomail_0.0.1-2_iphoneos-arm.deb
+Size: 14898
+MD5sum: 65402a9520d627beaf0c9d28b68164ed
+SHA1: 2beb9df6e1324880231c900a59e1a4d12528b739
+SHA256: b1d26b1b21166ed530069230aba05f7e74b723c5db950bd5ff152eae4a677493
 Section: Tweaks
-Description: Forward messages to email
+Description: Forward messages to email.
 Author: Joe Merlino
 Name: TextToMail
 
