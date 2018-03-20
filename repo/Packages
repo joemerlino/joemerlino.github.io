@@ -14,6 +14,22 @@ Description: Pebble in your statusbar.
 Author: Robert Hesse
 Name: pebblestatus
 
+Package: com.joemerlino.forcebuttons
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Joe Merlino
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.joemerlino.forcebuttons_0.0.1-1_iphoneos-arm.deb
+Size: 2612
+MD5sum: bb6e94a30a4239c5943787b8f429679d
+SHA1: dc06145cab2632746eee17732a55949e51613734
+SHA256: 86063d9b4e2072a766f4ad1198b069182d8659eaad0d7f8735fee10e56772157
+Section: Tweaks
+Description: Show 'Decline' and 'Answer' buttons at lockscreen.
+Author: Joe Merlino
+Name: ForceButtons
+
 Package: com.joemerlino.infinityfucker
 Version: 0.0.1-1
 Architecture: iphoneos-arm
