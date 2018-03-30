@@ -158,6 +158,23 @@ Description: Fixes the VideoPane's floating window area.
 Author: Joe Merlino
 Name: VideoPaneFix
 
+Package: com.tapthaker.bigshotjb
+Version: 0.0.1-6
+Architecture: iphoneos-arm
+Maintainer: Tapan Thaker
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/com.tapthaker.bigshotjb_0.0.1-6_iphoneos-arm.deb
+Size: 17962
+MD5sum: 204c12d08687c87896106082f49526cd
+SHA1: f1ac540cfe3111ec908eb592be21e88d962edb09
+SHA256: b03b054426c03451461bf2afe149842888eb2a06db12862a6385488e45105a43
+Section: Addons
+Priority: optional
+Description: A way to take screenshots of full vertically scrollable area of the screen.
+Author: Tapan Thaker
+Name: BigShotJb
+
 Package: me.qusic.mailtoopener
 Version: 0.3-3
 Architecture: iphoneos-arm
