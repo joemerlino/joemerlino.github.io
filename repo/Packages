@@ -94,6 +94,22 @@ Description: Open links inside Telegram using SafariViewController instead of Sa
 Author: Joe Merlino
 Name: Safari for Telegram
 
+Package: com.joemerlino.sngbypass
+Version: 0.0.1-4
+Architecture: iphoneos-arm
+Maintainer: Joe Merlino
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.joemerlino.sngbypass_0.0.1-4_iphoneos-arm.deb
+Size: 2510
+MD5sum: 8625c2ae15bf044674fd17427125aa0b
+SHA1: 4daa3e541814959336b9e02121425b3320bc24a7
+SHA256: e8b90d019faf2dcb8e35dd86d597f6e2d4b4ae30ea7710025fed336138e3b021
+Section: Tweaks
+Description: Bypass jailbreak detection of the Scan & Go app
+Author: Joe Merlino
+Name: sngBypass
+
 Package: com.joemerlino.spotifyalarm
 Version: 0.0.1-2
 Architecture: iphoneos-arm
