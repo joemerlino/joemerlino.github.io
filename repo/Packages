@@ -14,6 +14,22 @@ Description: Pebble in your statusbar.
 Author: Robert Hesse
 Name: pebblestatus
 
+Package: com.joemerlino.enpassbypass
+Version: 0.0.1-15
+Architecture: iphoneos-arm
+Maintainer: Joe Merlino
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.joemerlino.enpassbypass_0.0.1-15_iphoneos-arm.deb
+Size: 3312
+MD5sum: d392f9d8684a3e555ec37d90c8885cbc
+SHA1: 3a21c478057f75839d56800046af01ecb4fefd5b
+SHA256: 462896f2f76f70b6a8fdc86565dceef5fd70f28e363e1dd8c6ecabfad381ed3f
+Section: Tweaks
+Description: Bypass Enpass jailbreak detection.
+Author: Joe Merlino
+Name: EnpassBypass
+
 Package: com.joemerlino.forcebuttons
 Version: 0.0.1-1
 Architecture: iphoneos-arm
