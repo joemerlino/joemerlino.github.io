@@ -14,6 +14,22 @@ Description: Pebble in your statusbar.
 Author: Robert Hesse
 Name: pebblestatus
 
+Package: com.joemerlino.breadcrumbarrow
+Version: 0.0.1-6
+Architecture: iphoneos-arm
+Maintainer: Joe Merlino
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: ./debs/com.joemerlino.breadcrumbarrow_0.0.1-6_iphoneos-arm.deb
+Size: 10992
+MD5sum: 4efd13d6dba431cdbb4517a84b6fdf85
+SHA1: cfd18197248848b24ae719064c76e4110ac43ad6
+SHA256: 0b9ea946ba7bbf92a09efe5487a65e486b3f329536a48fc5d41ef7c4ad4d49b8
+Section: Tweaks
+Description: Removes breadcrumbs text and keeps cellular data.
+Author: Joe Merlino
+Name: BreadCrumbArrow
+
 Package: com.joemerlino.enpassbypass
 Version: 0.0.1-15
 Architecture: iphoneos-arm
