@@ -47,16 +47,16 @@ Author: Joe Merlino
 Name: EnpassBypass
 
 Package: com.joemerlino.forcebuttons
-Version: 0.0.1-1
+Version: 0.0.1-2
 Architecture: iphoneos-arm
 Maintainer: Joe Merlino
-Installed-Size: 120
+Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/com.joemerlino.forcebuttons_0.0.1-1_iphoneos-arm.deb
-Size: 2612
-MD5sum: bb6e94a30a4239c5943787b8f429679d
-SHA1: dc06145cab2632746eee17732a55949e51613734
-SHA256: 86063d9b4e2072a766f4ad1198b069182d8659eaad0d7f8735fee10e56772157
+Filename: ./debs/com.joemerlino.forcebuttons_0.0.1-2_iphoneos-arm.deb
+Size: 3052
+MD5sum: 74d3b6420971a8d6bb204023306c809f
+SHA1: da4a289d5a081c66f6a74af198bb5148a1f5a279
+SHA256: 14e88e5a5e1ce7da9372e4058ecc5bc1978c3ed1d51b10fbabfd856776dc0b6e
 Section: Tweaks
 Description: Show 'Decline' and 'Answer' buttons at lockscreen.
 Author: Joe Merlino
