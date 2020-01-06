@@ -46,6 +46,22 @@ Description: Bypass Enpass jailbreak detection.
 Author: Joe Merlino
 Name: EnpassBypass
 
+Package: com.joemerlino.focuskiller
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Joe Merlino
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.joemerlino.focuskiller_0.0.4_iphoneos-arm.deb
+Size: 3958
+MD5sum: 0086121f706f845024aeaa5d2a775723
+SHA1: 1147a6ef8fdf0315bcda98c2497d67564ec63596
+SHA256: 7ab8de55e34df6c4d4cdc416abe130c06540d59147c09e31c0fce4f0db8958d1
+Section: Tweaks
+Description: Hides keyboard once apps are in background
+Author: Joe Merlino
+Name: FocusKiller
+
 Package: com.joemerlino.forcebuttons
 Version: 0.0.1-2
 Architecture: iphoneos-arm
