@@ -47,16 +47,16 @@ Author: Joe Merlino
 Name: EnpassBypass
 
 Package: com.joemerlino.focuskiller
-Version: 0.0.5
+Version: 0.0.6
 Architecture: iphoneos-arm
 Maintainer: Joe Merlino
 Installed-Size: 104
 Depends: mobilesubstrate
-Filename: ./debs/com.joemerlino.focuskiller_0.0.5_iphoneos-arm.deb
-Size: 4560
-MD5sum: d934c86ca3fd58a9061e36875c82b07d
-SHA1: aaf39c81e6e1adb8e291cff3f5e2fa6a7b5f5762
-SHA256: ad65d9e8e4f20c2ee998ff094e836b3e1a2223f1172cef68929c7e0da1864786
+Filename: ./debs/com.joemerlino.focuskiller_0.0.6_iphoneos-arm.deb
+Size: 4554
+MD5sum: 5aac6293d94b81b4fe31cb90a740e193
+SHA1: 111f0ff6257788df4402dfe69c7206f67ec31955
+SHA256: 4e301db77a86b3a7464c278c3615982a726b917b24fcb5adcf77415067aad576
 Section: Tweaks
 Description: Hides keyboard once apps are in background
 Author: Joe Merlino
