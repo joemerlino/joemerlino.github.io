@@ -63,16 +63,16 @@ Author: Joe Merlino
 Name: FocusKiller
 
 Package: com.joemerlino.forcebuttons
-Version: 0.0.1-2
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: Joe Merlino
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/com.joemerlino.forcebuttons_0.0.1-2_iphoneos-arm.deb
-Size: 3052
-MD5sum: 74d3b6420971a8d6bb204023306c809f
-SHA1: da4a289d5a081c66f6a74af198bb5148a1f5a279
-SHA256: 14e88e5a5e1ce7da9372e4058ecc5bc1978c3ed1d51b10fbabfd856776dc0b6e
+Filename: ./debs/com.joemerlino.forcebuttons_0.0.2_iphoneos-arm.deb
+Size: 2932
+MD5sum: b667db73003d8cdf7301fca487fee2f1
+SHA1: 9766c14484588accdef8573a89de74a2c17248b6
+SHA256: 377b55ddb35f671768e777e4024c190a07afeb55aaec338d225e6a64950c7718
 Section: Tweaks
 Description: Show 'Decline' and 'Answer' buttons at lockscreen.
 Author: Joe Merlino
